@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="game"
+  >
+    <div
+      class="game-board"
+    >
+      <div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+        </div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+        </div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+          <button
+            class="sc-bdfBQB jOuJJT square"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="game-info"
+    >
+      <div>
+        Próximo: X
+      </div>
+      <div>
+        <button
+          class="toggle-button"
+        >
+          Orden ASC
+        </button>
+      </div>
+      <ol>
+        <li>
+          <button
+            class="last-move"
+          >
+            Reiniciar
+          </button>
+        </li>
+      </ol>
+    </div>
+  </div>
+</DocumentFragment>
+`;
